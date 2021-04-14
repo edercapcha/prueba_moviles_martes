@@ -2,3 +2,5 @@ Bienvenidos a git
 eder capcha loayza
 
 -resido en lima - las flores
+-programador java
+-dotero
